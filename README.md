@@ -151,6 +151,8 @@ We display all the anaysis and visuals executed with the various tools we used.
 
 
 
+![HR DATA ANALYSIS](https://github.com/user-attachments/assets/2c2294dd-d87f-42ab-b9ec-a8ff81f81b2d)
+
 
 
 
