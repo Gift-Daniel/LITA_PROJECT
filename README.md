@@ -1,13 +1,33 @@
 # LITA_PROJECT
+---
+## PROJECT OUTLINE
+
+[PROJECT OVERVIEW 1](#project-overview-1)
+
+[PROJECT OVERVIEW 2](#project-overview-2)
+
+[DATA SOURCES](#data-sources)
+
+[TOOLS USED](#tools-used)
+
+[DATA CLEANING AND PREPARATION](data-cleaning-and-preparation)
+
+[DATA VISUALIZATION](#data-visualization)
+
+[ANALYSIS WITH EXCEL](#analysis-with-excel)
+
+[ANALYSIS WITH SQL](#analysis-with-sql)
+
+[ANALYSIS DASHBOARD USING POWER BI](#analysis-dashboard-using-power-bi)
 
 ---
 ## PROJECT 1 : SALES ANALYSIS
-### PROJECT OVERVIEW
+### PROJECT OVERVIEW 1
 This first project deals with analysing sales performance of a retail store, showing their top selling products, regional performance, and monthly sales trends.
 
 ---
 ## PROJECT 2: CUSTOMER DATA ANALYSIS FOR A SUBSCRIPTION SERVICE
-### PROJECT OVERVIEW
+### PROJECT OVERVIEW 2
 This second project involes analyzing customer data for a subscription service to identify segments and trends. The goal is to understand customer behaviour, track subscription types and identify key trends in cancellations and renewal.
 
 ---
@@ -44,7 +64,7 @@ The primary sources of data used here are SalesData.xlsx and CustomerData.xlsx
 - Final Check and Review: Ensuring that dataset is clean and ready for analysis
 
 ---
-### DATA VISUALIZATION
+### DATA VISUALIZATION: We display all the anaysis and visuals executed with the various tools we used.
 ---
 #### ANALYSIS WITH EXCEL
 ---
