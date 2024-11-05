@@ -64,7 +64,8 @@ The primary sources of data used here are SalesData.xlsx and CustomerData.xlsx
 - Final Check and Review: Ensuring that dataset is clean and ready for analysis
 
 ---
-### DATA VISUALIZATION: We display all the anaysis and visuals executed with the various tools we used.
+### DATA VISUALIZATION 
+We display all the anaysis and visuals executed with the various tools we used.
 ---
 #### ANALYSIS WITH EXCEL
 ---
